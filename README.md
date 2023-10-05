@@ -8,12 +8,12 @@ Bot: https://t.me/EdyaAIrobot
 
 # Навигация
 
-- [Imagine](https://github.com/EdyaAI/API-Midjourney#imagine)
-- [Describe](https://github.com/EdyaAI/API-Midjourney#describe)
-- [Upscale](https://github.com/EdyaAI/API-Midjourney#upscale)
-- [Variation](https://github.com/EdyaAI/API-Midjourney#variation)
-- [Blend](https://github.com/EdyaAI/API-Midjourney#blend)
-- [Status](https://github.com/EdyaAI/API-Midjourney#status)
+- [Imagine](https://github.com/blsdax/API-Midjourney#imagine)
+- [Describe](https://github.com/blsdax/API-Midjourney#describe)
+- [Upscale](https://github.com/blsdax/API-Midjourney#upscale)
+- [Variation](https://github.com/blsdax/API-Midjourney#variation)
+- [Blend](https://github.com/blsdax/API-Midjourney#blend)
+- [Status](https://github.com/blsdax/API-Midjourney#status)
 
 ### Imagine
 
